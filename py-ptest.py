@@ -17,6 +17,7 @@ def ptest_bf(x): #bf stands for brute force
 if __name__ == "__main__":
     numbers =[1111, 1113, 1131, 1311, 3111, 3311, 3131, 3113, 1331, 1313, 1133, 1333, 3133, 3313, 3331, 3333]
     primes = []
+    print("num : prime?")
     for n in numbers:
         res = ptest_bf(n)
         print("{0}: {1}".format(n, res))
