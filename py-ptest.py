@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 #Title: py-primality-test
 #Author: Lukas Forst
 #License: MIT license
